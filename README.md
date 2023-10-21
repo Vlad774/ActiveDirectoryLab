@@ -8,11 +8,11 @@
 Creating a robust Active Directory lab involves.
 <br />
 Automated User Creation: Streamline user account generation with a script, creating up to 1000 users efficiently.
-
+<br />
 Network Configuration: Set up a network mirroring real-world complexity, including Domain Controllers, DNS, and DHCP services.
-
+<br />
 Remote Access: Enable secure remote logins, showcasing effective network and security configurations.
-
+<br />
 This project demonstrates expertise in Active Directory management, automation, and network administration for IT professionals.
 
 
