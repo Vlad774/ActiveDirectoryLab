@@ -16,6 +16,7 @@
 
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b> (21H2)
+- <b>Oracle VM</b> (21H2)
 
 <h2>Walk-through:</h2>
 
