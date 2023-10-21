@@ -33,8 +33,7 @@ Login with Automated Users: <br/>
 <br />
 Successful Remote Login:  <br/>
 <img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Success_login.jpg"/>
-<br />
-<br />
+
 
 </p>
 
