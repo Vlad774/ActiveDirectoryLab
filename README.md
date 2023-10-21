@@ -5,7 +5,8 @@
 <h2>Description</h2>
 
 <br />
-Creating a robust Active Directory lab involves
+Creating a robust Active Directory lab involves.
+
 
 Automated User Creation: Streamline user account generation with a script, creating up to 1000 users efficiently.
 
