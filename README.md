@@ -20,7 +20,7 @@ This project demonstrates expertise in Active Directory management, automation, 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b></b>
+
 
 <h2>Environments Used </h2>
 
