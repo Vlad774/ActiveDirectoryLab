@@ -19,8 +19,8 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Booked Facilities: <br/>
-<img src="https://github.com/Vlad774/SQL-test/blob/main/Booked_facilities.png"/>
+Creating Users Script: <br/>
+<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg"/>
 <br />
 <br />
 Created student table:  <br/>
