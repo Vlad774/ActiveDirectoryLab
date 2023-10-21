@@ -4,7 +4,15 @@
 
 <h2>Description</h2>
 
-<br />
+<br />"Creating a robust Active Directory lab involves:
+
+Automated User Creation: Streamline user account generation with a script, creating up to 1000 users efficiently.
+
+Network Configuration: Set up a network mirroring real-world complexity, including Domain Controllers, DNS, and DHCP services.
+
+Remote Access: Enable secure remote logins, showcasing effective network and security configurations.
+
+This project demonstrates expertise in Active Directory management, automation, and network administration for IT professionals."
 
 
 <h2>Languages and Utilities Used</h2>
@@ -14,9 +22,9 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Windows Server 2019</b> (21H2)
-- <b>Oracle VM</b> (21H2)
+- <b>Windows 10</b> 
+- <b>Windows Server 2019</b> 
+- <b>Oracle VM</b> 
 
 <h2>Walk-through:</h2>
 
